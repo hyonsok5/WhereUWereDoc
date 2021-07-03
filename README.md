@@ -18,10 +18,12 @@
     * 제품 조망
        * <img src="https://github.com/hyonsok5/WhereUWereDoc/blob/main/AppFrontendDesign/Contents%20List%20N%20Detail%20Page.png?raw=true" />
     * 전체 시스템
-       * 작성중 (인프라 구성도)
+       * 인프라 구성도
           * Azure App Services
           * Terraform Cloud App
           * Azure Functions etc
+       * Entity-Relationship Diagram
+          * <img src="https://github.com/hyonsok5/WhereUWereDoc/blob/main/ERD-WhereUWere.png?raw=true" />   
     * 동작 방식
        * Mobile Device Location 정보를 Mobile Device Local DB에 저장 및 조회
     * 주요 기능
