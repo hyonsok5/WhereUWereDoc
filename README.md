@@ -49,6 +49,8 @@
           * Python (백엔드 로직)
           * React (프런트엔드 화면)
           * DBeaver (ERD & Database 처리)
+          * AndroidAssetStudio (https://romannurik.github.io/AndroidAssetStudio/)
+          * AppIcon (https://appicon.co/)
     * 배포환경
        * Backend Infra to Azure
        * Docker Hub (배포 이미지 저장)
