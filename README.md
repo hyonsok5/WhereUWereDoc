@@ -2,7 +2,7 @@
 1. 개요
     * 목표
        * 사용자의 위치를 기록하는 앱
-    * 문서규칙
+    * 문서규칙 
        * 없음
     * 대상 독자 및 읽는 방법
        * 개발자
@@ -52,7 +52,7 @@
           * AndroidAssetStudio (https://romannurik.github.io/AndroidAssetStudio/)
           * AppIcon (https://appicon.co/)
           * Std. SQL (데이터베이스 Query)
-          * MySQL Workbench (DB Modeling)
+          * Lucid Chart (DB Modeling, Infra Diagram)
           * ECMAScript7 (Frontend)
           * TypeScript (Frontend)
           * HTML (Frontend)
