@@ -19,9 +19,7 @@
        * <img src="https://github.com/hyonsok5/WhereUWereDoc/blob/main/AppFrontendDesign/Contents%20List%20N%20Detail%20Page.png?raw=true" />
     * 전체 시스템
        * 인프라 구성도
-          * Azure App Services
-          * Terraform Cloud App
-          * Azure Functions etc
+          * <img src="https://github.com/hyonsok5/WhereUWereDoc/blob/main/InfraD-WhereUWere.png?raw=true" />
        * Entity-Relationship Diagram
           * <img src="https://github.com/hyonsok5/WhereUWereDoc/blob/main/ERD-WhereUWere.png?raw=true" />   
     * 동작 방식
