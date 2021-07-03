@@ -51,6 +51,11 @@
           * DBeaver (ERD & Database 처리)
           * AndroidAssetStudio (https://romannurik.github.io/AndroidAssetStudio/)
           * AppIcon (https://appicon.co/)
+          * Std. SQL (데이터베이스 작업)
+          * ECMAScript7 (Frontend)
+          * TypeScript (Frontend)
+          * HTML (Frontend)
+          * Node.js (백엔드)   
     * 배포환경
        * Backend Infra to Azure
        * Docker Hub (배포 이미지 저장)
