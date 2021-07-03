@@ -52,7 +52,7 @@
           * AndroidAssetStudio (https://romannurik.github.io/AndroidAssetStudio/)
           * AppIcon (https://appicon.co/)
           * Std. SQL (데이터베이스 Query)
-          * MySQL Workbench 8.0.20 (DB Modeling)
+          * MySQL Workbench (DB Modeling)
           * ECMAScript7 (Frontend)
           * TypeScript (Frontend)
           * HTML (Frontend)
