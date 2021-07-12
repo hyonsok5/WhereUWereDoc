@@ -63,6 +63,7 @@
        * Terraform Cloud App (인프라 배포)
     * 테스트 환경
        * RPA 테스팅 모듈 도입 고려중
+       * React Hook은 별도 폴더로, 유닛테스트도 집어넣어야
     * 형상관리
        * GitHub
     * 버그 트래킹
