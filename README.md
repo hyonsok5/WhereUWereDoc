@@ -26,6 +26,7 @@
        * Mobile Device Location 정보를 Mobile Device Local DB에 저장 및 조회
     * 주요 기능
        * Mobile Device에서 사용자의 현재 위치를 기록하고 보여줌
+       * 데이터 조작을 방지하기 위해 지우는 기록은 없음
     * 사용자 계층과 특징
        * EveryOne
     * 가정과 종속관계
