@@ -58,6 +58,8 @@
           * TypeScript (Frontend)
           * HTML (Frontend)
           * Node.js (백엔드)   
+          * Testing Tools
+            * TBD (To Be Defined)   
     * 배포환경
        * Backend Infra to Azure
        * Docker Hub (배포 이미지 저장)
