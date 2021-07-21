@@ -59,7 +59,7 @@
           * HTML (Frontend)
           * Node.js (백엔드)   
           * Testing Tools
-            * TBD (To Be Defined)   
+            * PyTest etc with GitHub Actions    
           * Sentry (Error Monitoring)
     * 배포환경
        * Backend Infra to Azure
