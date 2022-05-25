@@ -134,7 +134,7 @@
     * Dev Lead에게 Pull Request 한 후 Slack으로 검토 요청 
     * 만약 Dev Lead가 부재중이거나 급한 상황이면 주변 Contributor 에게 Pull Request & 검토 요청
     * 아주 급한 상황이면 Self Pull Request & Merge to Prod Branch 후 사후 검토 요청
-1. 최종승인자
+1. 최종승인자. 
     * Dev Lead
 1. 참고문헌
     * 아직까지 없음
